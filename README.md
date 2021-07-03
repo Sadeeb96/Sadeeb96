@@ -4,7 +4,8 @@
 - 📫 Reach me at sadeeb.mufc@gmail.com
 
 
-![Sadeeb's Github Stats](https://github-readme-stats.vercel.app/api?username=sadeeb96&show_icons=true)
+[![Sadeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadeeb96)](https://github.com/sadeeb96/github-readme-stats)
+
 
 <!---
 Sadeeb96/Sadeeb96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
